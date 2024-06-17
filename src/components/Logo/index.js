@@ -20,7 +20,7 @@ const Logo = ({ size }) => (
       <text fill="url(#paint5_linear_56_57)" style={{'fontFamily': 'Kalimati', 'fontSize': '39px', 'fontWeight': 700, 'whiteSpace': 'pre'}} x="-1.125" y="44.995">724</text>
       <defs>
         <linearGradient
-          id="paint0_linear_56_57"w
+          id="paint0_linear_56_57"
           x1="31.4312"
           y1="28.0978"
           x2="93.0547"
